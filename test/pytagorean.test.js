@@ -1,6 +1,6 @@
 const chai = require("chai");
 const expect = chai.expect;
-const isPythagoreanTriple = require("../../src/isPythagoreanTriple"); // Đường dẫn đến file chứa hàm
+const isPythagoreanTriple = require("../src/isPythagoreanTriple"); // Đường dẫn đến file chứa hàm
 
 // Data-driven test cases
 const testCases = [
